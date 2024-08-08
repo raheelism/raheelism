@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Raheel Anwar</h1>
-<h3 align="center">A passionate frontend developer from Islamabad, Pakistan</h3>
+<h3 align="center">A passionate Mobile Developer from Islamabad, Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raheelism&label=Profile%20views&color=0e75b6&style=flat" alt="raheelism" /> </p>
 
