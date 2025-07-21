@@ -1,44 +1,56 @@
-<h1 align="center">Hi 👋, I'm Muhammad Raheel Anwar</h1>
-<h3 align="center">A passionate Mobile Developer from Islamabad, Pakistan</h3>
+# Hi 👋, I'm Muhammad Raheel Anwar
+### Senior Research Officer | Generative AI & LLM Specialist | Islamabad, Pakistan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raheelism&label=Profile%20views&color=0e75b6&style=flat" alt="raheelism" /> </p> 
+![Profile views](https://komarev.com/ghpvc/?username=raheelism&label=Profile%20views&color=0e75b6&style=flat)
 
+---
 
-- 🔭 I’m currently working on **Flutter & Large Language Models.**
+### 🎯 Professional Objective
 
-- 🌱 I’m currently learning **Flutter, iOS and LLMs.**
+Seeking a challenging position to apply my expertise in **Multimodal LLMs, Vision-Language Models (VLMs), and Agentic AI systems**. My aim is to contribute to innovative projects at the intersection of **advanced AI architectures** and practical problem-solving, particularly in areas like **multi-agent systems, vision understanding, and intelligent automation**.
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/raheelism)
+---
 
-- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/newsletters/theinshort-writes-7040463399637389312/)
+### 🔭 Current Focus & Interests
 
-- 💬 Ask me about **Flutter and LLMs**
+* 🔬 Currently engaged in research and development involving **Large Language Models (LLMs), Generative AI, and Multi-Agent Systems**.
+* 🌱 Continuously learning and exploring advancements in **Flutter, iOS Development, and cutting-edge LLM architectures**.
+* 💡 Passionate about leveraging AI for practical problem-solving and building robust, intelligent systems.
 
-- 📫 How to reach me **pingmra@gmail.com**
+---
 
-- 📄 Know about my experiences [Resume](https://github.com/raheelism/raheelism/tree/main/resume)
+### 🔗 Connect & Explore
 
-- ⚡ Fun fact **I really like Failure. Love to try new things.**
+* 👨‍💻 All my research and development projects are available on [GitHub](https://github.com/raheelism).
+* 📝 I regularly share insights and articles on [Giithub.io](https://raheelism.github.io).
+* 📫 How to reach me: **pingmra@gmail.com**
+* 📄 Explore my professional background and detailed experience: [Resume](https://github.com/raheelism/raheelism/tree/main/resume)
+* 💬 Ask me about: **Generative AI, LLMs, Agentic AI, and Flutter Development.**
+* ⚡ Fun fact: I embrace challenges and new experiences, viewing every "failure" as an opportunity to learn and innovate.
 
-### 🚀 Flutter Expertise
+---
 
-🎯 **State Management**:
-- Proficient in various state management solutions including **Provider**, **Bloc**, **Riverpod**, **Redux**, and **GetX**. Each of these tools is chosen to fit the specific needs of the project, ensuring efficient and maintainable code.
+### 🚀 AI & Generative AI Expertise
 
-🏗️ **Coding Architectures**:
-- Experienced in implementing **MVC**, **MVVM**, **Clean Architecture**, and **MVP**. These architectures help in organizing code, enhancing testability, and ensuring a clear separation of concerns.
+My work spans various facets of AI, with a strong emphasis on building intelligent systems:
 
-📜 **Principles & Best Practices**:
-- Adhere to industry standards with a strong grasp of **SOLID**, **KISS**, and **DRY** principles. These ensure that the codebase is robust, scalable, and easy to understand.
+* **Multimodal & Vision-Language Models (VLMs):** Development and application for tasks like image generation (e.g., `AQDress`, `ImageAAC`, `AACIcons`) and understanding.
+* **Agentic AI & Multi-Agent Systems:** Designing and implementing autonomous agents for complex tasks (e.g., `LeadGen Agent`, thesis work on Mixture-of-Agent approach for MCQs).
+* **Retrieval Augmented Generation (RAG):** Building robust Q&A systems and content generators (e.g., `IslamQA`, `MedicalRAG`, `BlogLM`, `QABox`).
+* **Model Training & Fine-tuning:** Optimizing LLMs for specific applications (e.g., `AbsLLM`, `PromptOpt`, `SynData Generator`).
+* **Content Generation:** Automating creation of text, images, and music (e.g., `InstaPost`, `MusicAI`, `ProductDescrip`, `ThesisTitle`).
 
-🌐 **Web Services & Programming**:
-- Skilled in working with **REST APIs** to fetch and manage data efficiently. Also adept at **Reactive Programming** paradigms, which are crucial for building responsive and interactive applications.
+---
 
-🎨 **UI/UX Development**:
-- Create custom widgets and UI components that not only look great but also perform exceptionally well, enhancing the overall user experience.
+### 📱 Flutter & Mobile Development Expertise
 
-🔗 **Let's Collaborate**:
-- Passionate about technology and innovation, I'm always eager to take on new challenges and contribute to exciting projects. Reach out to discuss how we can work together to bring your ideas to life!
+My mobile development proficiency is built on a foundation of robust architectural principles and best practices:
+
+* **State Management**: Proficient in **Provider, Bloc, Riverpod, Redux, and GetX**, ensuring efficient and maintainable application states.
+* **Coding Architectures**: Experienced in implementing **MVC, MVVM, Clean Architecture, and MVP** for organized and testable codebases.
+* **Principles & Best Practices**: Adherence to **SOLID, KISS, and DRY** principles for scalable and understandable code.
+* **Web Services & Reactive Programming**: Skilled in **REST APIs** and **Reactive Programming** paradigms, which are crucial for building responsive and interactive applications.
+* **UI/UX Development**: Creating high-performance, custom widgets and intuitive user interfaces.
 
 ---
 <h3 align="left">Connect with me:</h3>
